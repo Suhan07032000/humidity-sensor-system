@@ -18,4 +18,4 @@ This project investigates the operation of a capacitive humidity sensor and the 
 
 The complete project documentation is available here:
 
-[Project Report](Project_Report detailed.pdf)
+[Project Report](Project_Report%20detailed.pdf)
